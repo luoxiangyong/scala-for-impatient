@@ -1,6 +1,7 @@
 # sbt,IDEA
 /target/
 /out/
+project/target
 
 # gitbook
 /_book/
